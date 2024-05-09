@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra- Cambridge 2023"
 collection: teaching
-type: "Supervisions"
+type: "Undergraduate Course"
 permalink: /teaching/2023LinearAlgebra
 venue: "University of Cambridge"
 date: 01/10/2023
