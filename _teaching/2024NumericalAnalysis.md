@@ -4,7 +4,7 @@ collection: teaching
 type: "Supervisions"
 permalink: /teaching/2024NumericalAnalysis
 venue: "University of Cambridge"
-date: 2024
+date: 01/02/2024
 location: "Cambridge, UK"
 ---
 
