@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023VariationalPrinciples
 venue: "University of Cambridge"
-date: 2023
+date: 01/10/2023
 location: "Cambridge, UK"
 ---
 
