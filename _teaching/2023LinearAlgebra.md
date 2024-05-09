@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra 2023"
+title: "Linear Algebra- Cambridge 2023"
 collection: teaching
 type: "Supervisions"
 permalink: /teaching/2023LinearAlgebra
