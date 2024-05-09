@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sergio"
-  pronouns         : "he/him"  
+  pronouns         : "He/him"  
   bio              : "Mathematics graduate and PhD student at Imperial College London on Machine Learning and Statistics applied to public policy"
   location         : "Earth"
   employer         : "Imperial College London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sergioestanruiz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
