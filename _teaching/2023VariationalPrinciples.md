@@ -2,7 +2,7 @@
 title: "Variational Principles- Cambridge 2023"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023VariationalPrinciples
 venue: "University of Cambridge"
 date: 2023
 location: "Cambridge, UK"
